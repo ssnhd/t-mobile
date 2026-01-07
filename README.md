@@ -18,7 +18,7 @@
 
 ## 充值
 
-打开 https://www.t-mobile.com/ 注册并登录，或者用 guest 的方式使用 visa 信用卡充值。
+打开 https://www.t-mobile.com/ 注册并登录，或用 Guest（访客）方式使用 VISA 信用卡充值；也可以联系客服代充值。
 
 ## Wi‑Fi Calling 开启
 
