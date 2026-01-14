@@ -16,9 +16,13 @@
 
 注：如果停机超过 90 天而不充值，号码会被注销。
 
-## 充值
+## 充值话费
 
-打开 https://www.t-mobile.com/ 注册并登录，或用 Guest（访客）方式使用 VISA 信用卡充值；也可以联系客服代充值。
+1. 打开 https://prepaid.t-mobile.com/direct-to-account 输入两次手机号码；
+2. 点击 **Pay without logging in**（无需登录即可付款），输入充值金额，建议不低于 3 美元；
+3. 输入 VISA 或 MasterCard 标志的信用卡信息，点击 **Accept & Submit**（接受并提交）进行充值。
+
+>注：如果出现报错，更换美国代理/VPN 节点。
 
 ## Wi‑Fi Calling 开启
 
