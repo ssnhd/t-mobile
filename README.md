@@ -1,6 +1,6 @@
 # 美国 T-Mobile 手机卡介绍
 
-跨境电商、旅游使用：https://t.me/GVStore
+跨境电商、旅游使用：https://t.me/GVStoresim
 
 ## 使用
 
