@@ -26,7 +26,7 @@
 
 ## 充值
 
-1. 打开 https://prepaid.t-mobile.com/direct-to-account 输入两次手机号码；
+1. 开启代理，打开 https://prepaid.t-mobile.com/direct-to-account 输入两次手机号码；
 2. 点击 **Pay without logging in**（无需登录即可付款），输入充值金额，建议不低于 3 美元；
 3. 输入 VISA 或 MasterCard 标志的信用卡信息，点击 **Accept & Submit**（接受并提交）进行充值。
 
