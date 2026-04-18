@@ -46,5 +46,13 @@
 
 不欠费，正常交月租。建议提前充值每月自动扣月租，如果停机超过 90 天号码会被注销。
 
+## 官方客服
+
+一、登录官网 www.t-mobile.com 点击网页右下角客服图标（北京时间 22 点上班）\
+二、电话 877-464-8646\
+三、[T-Mobile Help](https://x.com/TMobileHelp)  𝕏 官方账号发私信\
+四、[T-Mobile](https://www.facebook.com/TMobile/)  Facebook 官方账号发私信
+
+
 
 
