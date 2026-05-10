@@ -27,11 +27,11 @@
 
 ## 充值
 
-1. 开美国代理，打开 https://prepaid.t-mobile.com/direct-to-account 输入两次手机号码；
+1. 开美国代理（IP 干净），打开 https://prepaid.t-mobile.com/direct-to-account 输入两次手机号码；
 2. 点击 **Pay without logging in**（无需登录即可付款），输入充值金额，建议不低于 3 美元；
 3. 输入 VISA 或 MasterCard 标志的信用卡信息，点击 **Accept & Submit**（接受并提交）进行充值。
 
-注：如果出现报错，更换干净美国代理节点。
+注：若出现报错，更换美国 IP 或更换信用卡再试；还可以联系客服代充值。
 
 ## 官网
 
