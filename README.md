@@ -6,7 +6,7 @@
 
 手机要连接 Wi-Fi 并打开美国代理，然后插卡。
 
-- **iPhone**：设置 → 蜂窝网络 → 点击号码 → 无线局域网通话（Wi‑Fi 通话）→ 打开**在 iPhone 上启用 Wi‑Fi 通话**，等信号处显示 “T-Mobile Wi-Fi” 即可使用。
+- **iPhone**：设置 → 蜂窝网络 → 点击号码 → 无线局域网通话（Wi‑Fi 通话）→ 打开**在 iPhone 上启用 Wi‑Fi 通话**，等信号处显示 “T-Mobile Wi-Fi” 即可使用（不显示信号格）。
 - **安卓**：设置 → 移动网络 → 打开**启用 WLAN 通话**。
 
 >注：国产安卓手机在拨号界面输入代码 `*#*#869434#*#*` 来解锁并开启 Wi-Fi Calling 功能。输入后显示“VoWiFi Carrier Check was disabled”，随后可在设置中启用。
